@@ -8,7 +8,7 @@ params:
     has_nav: true
     nav_links:
       - type: action
-        label: Features
+        label: About
         url: /features
         style: link
       - type: action
